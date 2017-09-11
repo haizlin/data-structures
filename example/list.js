@@ -1,6 +1,6 @@
 'use strict';
 
-let Stack = require('./stack.js');
+let Stack = require('../libs/stack.js');
 
 let stack = new Stack();
 
